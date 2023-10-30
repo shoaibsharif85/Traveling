@@ -7,7 +7,7 @@ const Contact = () => {
     <div className=" max-w-[1240px] m-auto md:mx-20 md:ml-5  mx-40 ml-[-20px]">
       <div className=" mx-10 flex flex-col md:flex-row justify-between w-full   text-black ">
         <form className="  md:w-2/5 space-y-5 pt-20">
-          <h1 className="text-5xl font-extrabold  my-10 text-center">Contact us </h1>
+          <h1 className="text-5xl font-extrabold  my-20 text-center">Contact us </h1>
           <div className=" flex flex-col">
             <label htmlFor="userName">Your Name</label>
             <input
@@ -45,7 +45,7 @@ const Contact = () => {
           </div>
         </form>
 
-        <div className=" max-w-[1240px] m-auto     my-20 ">
+        <div className=" max-w-[1240px] m-auto     my-40 ">
           
           <img className=" rounded-md md:w-[500px] md:h-[300px] w-[500px] ml-10 h-[300px] " src={contact} alt="img" />
           <p className="text-center ml-10 my-5">Lorem ipsum dolor sit amet consectetur adipisicing elit.<br></br>
