@@ -17,7 +17,7 @@ const Feacture = () => {
       dolore nostrum, optio commodi delectus dolor
       quod, asperiores et enim error mollitia
       necessitatibus voluptatum quis?</p>
-      <img src={feacture} alt=""  className='w-[250px] h-[200px] mx-[50px] md:mx-[100px] rounded-3xl shadow shadow-blue-600 shadow-2xl' />
+      <img src={feacture} alt=""  className='w-[250px] h-[200px] mx-[30px] md:mx-[100px] rounded-3xl shadow shadow-blue-600 shadow-2xl' />
 </div>
 <div className=''> 
 <div>
