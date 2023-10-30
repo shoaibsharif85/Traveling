@@ -47,7 +47,7 @@ const Contact = () => {
 
         <div className=" max-w-[1240px] m-auto     my-20 ">
           
-          <img className=" rounded-md md:w-[500px] md:h-[400px] w-[500px] ml-10 h-[400px] " src={contact} alt="img" />
+          <img className=" rounded-md md:w-[500px] md:h-[300px] w-[500px] ml-10 h-[300px] " src={contact} alt="img" />
           <p className="text-center ml-10 my-5">Lorem ipsum dolor sit amet consectetur adipisicing elit.<br></br>
              Expedita earum veritatis dolor omnis cumque animi<br></br>
               aliquam! Eius possimus ducimus, tempore nobis, <br></br>

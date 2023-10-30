@@ -10,7 +10,7 @@ const Home = () => {
                     Destination</h1>
                 <p className=' mt-5 mx-5 ml-10  md:ml-10'>Lorem ipsum dolor sitr olorum rem quis adipisci<br />
                     dolorum rem quis, reprehenderit?</p>
-                <button className='bg-yellow-300 p-[10px] ml-[70px] my-10 rounded-full w-[200px]'>Destinations</button>
+                <button className='bg-yellow-300 hover:bg-purple-800 p-[10px] hover:bg-purple-800 ml-[40px] my-10 rounded-full w-[200px]'>Destinations</button>
             </div>
             <div className='  mx-5  my-5'>
                 <img src={hero} alt="" />
