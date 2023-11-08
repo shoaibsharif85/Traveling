@@ -18,10 +18,10 @@ const Contact = () => {
               placeholder="enter your name"
             />
           </div>
-          <div className=" flex flex-col">
+          <div className=" flex flex-col border-black">
             <label htmlFor="userEmail">Your Email</label>
             <input
-              className=" py-3 my-5 px-2 rounded-lg hover:shadow-[rgba(0,_0,_0,_0.24)_0px_3px_8px] transition-all"
+              className=" py-3 my-5 border-black px-2 rounded-lg hover:shadow-[rgba(0,_0,_0,_0.24)_0px_3px_8px] transition-all"
               type="email"
               name="userEmail"
               id="userEmail"

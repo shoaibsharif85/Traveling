@@ -17,7 +17,7 @@ const Destination = () => {
                     <p className='text-center mx-5'>Lorem ipsum dolor sit amet consectetur adipisicing elit.
                         Temporibus sint nostrum illo corporis
                         </p>
-                        <button className='bg-yellow-300 hover:bg-purple-800 p-[10px] ml-[50px] md:ml-[100px] my-5 rounded-full w-[120px]'>Destinations</button>
+                        <button className='bg-yellow-300 hover:bg-purple-800 p-[10px] ml-[70px] md:ml-[150px] my-5 rounded-full w-[120px]'>Destinations</button>
                 </div> 
                 <div className='md:w-[400px] w-[250px] rounded-lg mx-5 md:my-1 my-20  bg-[#c3caca]'>
                     <img src={dest2} alt="" className=' md:w-[400px]  w-[300px] md:h-[250px] rounded-lg' />
@@ -25,7 +25,7 @@ const Destination = () => {
                     <p className='text-center mx-5'>Lorem ipsum dolor sit amet consectetur adipisicing elit.
                         Temporibus sint nostrum illo corporis
                        </p>
-                       <button className='bg-yellow-300 hover:bg-purple-800 p-[10px] ml-[50px] md:ml-[100px] my-5 rounded-full w-[120px]'>Destinations</button>
+                       <button className='bg-yellow-300 hover:bg-purple-800 p-[10px] ml-[50px] md:ml-[150px] my-5 rounded-full w-[120px]'>Destinations</button>
                 </div>
                 <div className='md:w-[400px] w-[250px] mx-5  rounded-lg bg-[#c3caca]'>
                     <img src={dest3} alt="" className='md:w-[400px]  w-[300px] md:h-[250px] rounded-lg' />
@@ -33,7 +33,7 @@ const Destination = () => {
                     <p className='text-center mx-5'>Lorem ipsum dolor sit amet consectetur adipisicing elit.
                         Temporibus sint nostrum illo corporis
                        </p>
-                       <button className='bg-yellow-300 hover:bg-purple-800 p-[10px] ml-[70px] md:ml-[100px] my-5 rounded-full w-[120px]'>Destinations</button>
+                       <button className='bg-yellow-300 hover:bg-purple-800 p-[10px] ml-[70px] md:ml-[150px] my-5 rounded-full w-[120px]'>Destinations</button>
                 </div>
 
             </div>
